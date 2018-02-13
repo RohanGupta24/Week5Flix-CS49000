@@ -1,7 +1,7 @@
 
     
     
-    ### Lab 5 - *Flix*
+# Lab 5 - *Flix*
 
 **Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
